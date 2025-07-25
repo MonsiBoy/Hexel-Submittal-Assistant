@@ -1,0 +1,168 @@
+[
+  {
+    "title": "現場名",
+    "children": [
+      {
+        "title": "（01）仕様書"
+      },
+      {
+        "title": "（02）契約図面", 
+        "children": [
+          {
+            "title": "(00) 全工種"
+          },
+          {
+            "title": "(01) 電気設備"
+          },
+           
+          {
+            "title": "(02) 通信設備"
+          },      
+          
+          {
+            "title": "(03) 構造"
+          },
+          
+          {
+            "title": "(04) 建築"
+          },
+          
+          {
+            "title": "(05)土木 "
+          },
+          
+          {
+            "title": "(06) 火災報知設備"
+          }, 
+
+          {
+            "title": "(07) 配管設備"
+          }, 
+
+          {
+            "title": "(08) 機械設備"
+          }
+      
+        ]
+      },
+      {
+        "title": "（03）設計図"
+      },
+      {
+        "title": "（04）サブミタル",
+        "children":[
+            {
+              "title": "SECTION 26", 
+              "children":[
+                {
+                  "title": "SECTION 26 05 48.00 10 (Seismic Protection for Electrical Equipment &Apparatus Inspection and Testing)"
+                },
+                {
+                  "title": "SECTION 26 12 19.10 (Three Phase Pad-Mounted Transformer)"
+                },
+                {
+                  "title": "SECTION 26 13 00 (High-Firepoint Fluids Insulated Pad-Mounted Switchgear)"
+                },
+                {
+                  "title": "SECTION 26 20 00 (Interior Distribution System)"
+                },
+                {
+                  "title": "SECTION 26 24 13 (Switchboards)"
+                },
+                {
+                  "title": "SECTION 26 27 13.10 30 (Electric Meters)"
+                },
+                {
+                  "title": "SECTION 26 32 15.00 10 (Diesel -Generator Set Stationary 100-2500KW, with Accessories)"
+                },
+                {
+                  "title": "SECTION 26 35 43 (400-Hertz (Hz) Solid State Frequency Converter)"
+                },
+                {
+                  "title": "SECTION 26 36 00.00 10 (Automatic Transfer Switch and Bypass / Isolation Switch)"
+                },
+                {
+                  "title": "SECTION 26 41 00 (Lightening Protection System)"
+                },
+                {
+                  "title": "SECTION 26 51 00 (Interior Lighting)"
+                },
+                {
+                  "title": "SECTION 26 56 00 (Exterior Lighting)"
+                },
+                {
+                  "title": "SECTION 26 56 20 (Airfield and Heliport Lighting and Visual)"
+                }
+              ]
+            },
+            {
+              "title": "SECTION 27",
+              "children":[
+                {
+                  "title": "SECTION 27 05 14.00 10 (Cable Television Premises Distribution System)"
+                },
+                {
+                  "title": "SECTION 27 10 00 (Building Telecommunications Cabling System)"
+                },
+                {
+                  "title": "SECTION 27 51 16 (Radio and Public Address System)"
+                }
+              ]
+            },
+            
+            {
+              "title": "SECTION 28",
+              "children":[
+                {
+                  "title": "SECTION 28 31 76 (Interior Fire Alarm and Mass Notification System)"
+                }
+              ]
+            },
+            {
+              "title": "SECTION 33",
+              "children":[
+                {
+                  "title": "SECTION 33 71 02 (Underground Electrical Distribution)"
+                }, 
+                {
+                  "title": "SECTION 33 82 00 (Telecommunications Outside Plant (OSP))"
+                }
+              ]
+            },
+            {
+              "title": "SECTION 34",
+              "children":[
+                {
+                  "title": "SECTION 34 73 16 (Airfield Grounding)"
+                }
+              ]
+            }
+
+        ]
+      },
+      {
+        "title": "（05）新しい作業"
+      },
+      {
+        "title": "（06）済作業"
+      },
+      {
+        "title": "（07）問い合わせ"
+      },
+      {
+        "title": "（08）発注"
+      },
+      {
+        "title": "（09）取付指示書"
+      },
+      {
+        "title": "（10）資料"
+      },
+      {
+        "title": "（11）その他"
+      }
+      
+  
+    ]       
+  }
+]
