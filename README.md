@@ -4,6 +4,9 @@ Halo! Submittal Creation tedious? I hear you bud, that's why I started this appl
 ## Updates
 You can check out the latest update changes [here](https://github.com/MonsiBoy/Hexel-Submittal-Assistant/blob/main/ChangeLog.md)
 
+## Instruction
+Instructions can be found [here](https://github.com/MonsiBoy/Hexel-Submittal-Assistant/blob/main/Instructions.md)
+
 ## Known Bugs
 I've also compiled a few bugs that I am currently working on, so if you ever come across a weird behavior do take the time and read it [here](https://github.com/MonsiBoy/Hexel-Submittal-Assistant/blob/main/Known%20Bugs.md)
 
