@@ -70,7 +70,7 @@ Update Notes:
     - 2016
 
 ## v0.0022
-Released: 2025/08/06
+Released: 2025/08/06  
 Update Notes:
 ### Feature Updates
 - The PDF Preview pane is now available in the Bookmark Tab.
