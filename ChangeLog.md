@@ -74,7 +74,7 @@ Released: 2025/08/06
 Update Notes:
 ### Feature Updates
 - The PDF Preview pane is now available in the Bookmark Tab.
-  -  In the event a bookmark is clicked the pane will preview the the linked page.
+  -  In the event a bookmark is clicked the pane will preview the linked page.
   -  The pane follows the common navigation features such as but not limited to: Panning, zooming and scrolling.
 - A dictionary tool has been added in the Tool Tab.
   - The dictionary runs on the open-sourced JMDict Library. I will personally be posting the updated libraries in GitHub.
@@ -83,6 +83,6 @@ Update Notes:
 - The splash screen will now only dissappear once the main window is ready.
 - A bug that prevented user from using the scan shortcut "S" has now been resolved. Both the QR and Text Scanner tool will now both respond to the shortcut "S".
 ### QoL Updates
-- Rubber Banding selection is now available in the heirarchal trees.
+- Rubber Banding selection is now available in the hierarchical trees.
 - An "Auto Open" option has been added to the QR Scanner tool. This will automatically open your browser if a QR code is scanned.
 
